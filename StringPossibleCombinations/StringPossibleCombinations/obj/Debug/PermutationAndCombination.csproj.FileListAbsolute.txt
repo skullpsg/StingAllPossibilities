@@ -1,0 +1,6 @@
+c:\users\vishn_000\documents\visual studio 2015\Projects\PermutationAndCombination\PermutationAndCombination\bin\Debug\PermutationAndCombination.exe.config
+c:\users\vishn_000\documents\visual studio 2015\Projects\PermutationAndCombination\PermutationAndCombination\obj\Debug\PermutationAndCombination.csprojResolveAssemblyReference.cache
+c:\users\vishn_000\documents\visual studio 2015\Projects\PermutationAndCombination\PermutationAndCombination\bin\Debug\PermutationAndCombination.exe
+c:\users\vishn_000\documents\visual studio 2015\Projects\PermutationAndCombination\PermutationAndCombination\bin\Debug\PermutationAndCombination.pdb
+c:\users\vishn_000\documents\visual studio 2015\Projects\PermutationAndCombination\PermutationAndCombination\obj\Debug\PermutationAndCombination.exe
+c:\users\vishn_000\documents\visual studio 2015\Projects\PermutationAndCombination\PermutationAndCombination\obj\Debug\PermutationAndCombination.pdb

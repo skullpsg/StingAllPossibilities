@@ -1,0 +1,3 @@
+C:\Users\vishn_000\Documents\Visual Studio 2015\Projects\StringPossibleCombinations\StringPossibleCombinations\bin\Debug\PermutationAndCombination.exe.config
+C:\Users\vishn_000\Documents\Visual Studio 2015\Projects\StringPossibleCombinations\StringPossibleCombinations\obj\Debug\PermutationAndCombination.exe
+C:\Users\vishn_000\Documents\Visual Studio 2015\Projects\StringPossibleCombinations\StringPossibleCombinations\obj\Debug\PermutationAndCombination.pdb
